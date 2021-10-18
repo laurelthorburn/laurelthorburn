@@ -6,7 +6,7 @@
 
 #### Portfolio: https://laurelthorburn.com/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
 </div>
-##### Welcome 🦸‍♀️
+### Welcome 🦸‍♀️
 
 - 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Node.js
