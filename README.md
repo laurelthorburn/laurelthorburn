@@ -1,3 +1,5 @@
+<div align="center">
+ 
 # **Laurel Thorburn**
 
 #### Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
@@ -13,3 +15,4 @@
 - ⚡ Fun fact: I've studied four languages, email me your guesses!
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1PCDEbj6nRjaNaSe_1KquX8zwYbSCFZ1V/view?usp=sharing)
+</div>
