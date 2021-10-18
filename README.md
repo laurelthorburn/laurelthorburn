@@ -1,4 +1,7 @@
-### Welcome 👋
+### Laurel Thorburn
+
+Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
+Portfolio: https://laurelthorburn.com/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
 
 My name is Laurel Thorburn and I am an audiologist looking to make a career change to coding.
 
