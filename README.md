@@ -1,12 +1,11 @@
 <div align="center">
  
-# **Laurel Thorburn**
+# **Laurel Thorburn** 🦸‍
 
 #### Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
 
 #### Portfolio: https://laurelthorburn.com/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
-</div>
-### Welcome 🦸‍♀️
+</div>♀
 
 - 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Node.js
