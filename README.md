@@ -16,5 +16,5 @@ I am a (future) full stack developer currently working as an audiologist. Born a
 - 📫 How to reach me: codinglaurel@gmail.com
 - ⚡ Fun fact: I've studied four languages, email me your guesses!
 
-Want to see my resume? [Click here!](https://drive.google.com/file/d/1PCDEbj6nRjaNaSe_1KquX8zwYbSCFZ1V/view?usp=sharing)
+Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6yhQkm6BKyP1Cj13Kj6nGVU/view?usp=sharing)
 
