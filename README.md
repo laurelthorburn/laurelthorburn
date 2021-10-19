@@ -4,7 +4,7 @@
 
 #### Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
 
-#### Portfolio: https://laurelthorburn.com/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
+#### Portfolio: https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
 </div>
 
 ## About Me:
