@@ -6,6 +6,8 @@
  
  <a href="https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/laurel-thorburn-651592219/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
+ <a href="mailto:codinglaurel@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
+ 
  
 
 </div>
