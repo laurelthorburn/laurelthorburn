@@ -6,7 +6,7 @@
 
 #### Portfolio: https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/ | LinkedIn: https://www.linkedin.com/in/laurel-thorburn-651592219/
  
- https://img.shields.io/badge/-Portfolio-181717?logo=GitHub
+ <img src="https://img.shields.io/badge/-Portfolio-181717?logo=GitHub">
  
 </div>
 
