@@ -31,6 +31,12 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Laurel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats) -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurelthorburn&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurelthorburn&repo=convoychat" />
+
+
 
 
