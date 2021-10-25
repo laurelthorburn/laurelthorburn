@@ -3,7 +3,7 @@
 # **Laurel Thorburn** 🦸‍
  /lôrəl θɔːrbɚn/
 
-#### Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
+#### Area: Colorado, USA | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
  
  <a href="https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/laurel-thorburn-651592219/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
