@@ -26,3 +26,5 @@ I am a (future) full stack developer currently working as an audiologist. Born a
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6yhQkm6BKyP1Cj13Kj6nGVU/view?usp=sharing)
 
+## Stats
+[![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats)
