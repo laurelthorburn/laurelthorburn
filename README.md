@@ -2,7 +2,7 @@
  
 # **Laurel Thorburn** 🦸‍<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
  
- /lôrəl θɔːrbɚn/
+ /lôrəl θɔːrbɚn/ <img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.laurelthorburn" style="max-width: 100%;">
 
 #### Area: Colorado, USA | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
  
@@ -30,7 +30,10 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6
 
 ## Technology
 
-Coming soon...
+<!-- Languages: HTML, CSS< JS, NODE.JS
+Libraries: BOOTSTRAP, BULMA, jQuery, Materliaze, 
+Applications: GitHub -->
+
 
 ## Stats
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
