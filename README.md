@@ -31,6 +31,7 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6
 
 ## Technology
 
+Coming Soon...
 <!-- Languages: HTML, CSS< JS, NODE.JS
 Libraries: BOOTSTRAP, BULMA, jQuery, Materliaze, 
 Applications: GitHub -->
@@ -39,7 +40,7 @@ Applications: GitHub -->
 ## Stats & Just for Fun
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Laurel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=laurelthorburn&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats) -->
 
