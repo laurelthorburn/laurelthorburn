@@ -1,6 +1,7 @@
 <div align="center">
  
 # **Laurel Thorburn** 🦸‍
+ /lôrəl θorbɚn/
 
 #### Aurora, CO 80016 | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
  
