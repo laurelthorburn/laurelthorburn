@@ -50,7 +50,9 @@ Preferred browser:
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 ## Stats & Just for Fun
+
 <div align="center">
+ 
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
