@@ -4,7 +4,7 @@
  
  /lôrəl θɔːrbɚn/
  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 
 #### Area: Colorado, USA | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
