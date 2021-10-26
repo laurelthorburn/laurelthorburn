@@ -34,8 +34,9 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6
 ## Technology
 
 Coming Soon...
-Languages: HTML, CSS< JS, NODE.JS
-Libraries: BOOTSTRAP, BULMA, jQuery, Materliaze, 
+<!-- Languages: HTML, CSS< JS, NODE.JS
+Libraries: BOOTSTRAP, BULMA, jQuery, Materliaze -->
+
 Applications: [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 
 
