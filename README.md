@@ -33,8 +33,8 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6
 
 ## Technology
 
-Coming Soon...
-Languages: [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)] 
+Languages:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Libraries: BOOTSTRAP, BULMA, jQuery, Materliaze -->
 
