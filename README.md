@@ -18,7 +18,7 @@
 
 </div>
 <div align="center">
- <pre>Console.log("Welcome to my profile!");</pre>
+ <pre>console.log("Welcome to my profile!");</pre>
 </div>
 
 ## About Me:
