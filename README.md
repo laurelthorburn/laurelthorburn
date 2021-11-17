@@ -28,7 +28,7 @@ I am a (future) full stack developer currently working as an audiologist. Born a
 - 🌱 I’m currently learning Express.js and Sequelize
 - 💬 Ask me about what I can bring to your team
 - 📫 How to reach me: codinglaurel@gmail.com
-- ⚡ Fun fact: I've studied four languages, email me your guesses!
+- ⚡ Fun fact: I read the docs
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6yhQkm6BKyP1Cj13Kj6nGVU/view?usp=sharing)
 
