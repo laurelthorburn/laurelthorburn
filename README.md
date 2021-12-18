@@ -24,7 +24,7 @@
 ## About Me:
 I am a full stack developer currently working as an audiologist. Born and raised in Canada, I now reside in Colorado with my husband and two dogs. I moved to Colorado in 2013 to pursue my doctorate and am currently employed at Kaiser Permanente. I pride myself on being a strong team member, independent learner, and love a challenge (except when it involves getting a lid off a jam jar). I originally pursued computer science in college and am excited to achieve this dream over a decade later. Want to learn more? Let's talk about how I can contribute to your team.
 
-- 🔭 I’m currently earning a Full Stack Developer certificate from University of Denver
+- 🔭 Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Algorithms & React
 - 💬 Ask me about what I can bring to your team
 - 📫 How to reach me: codinglaurel@gmail.com
