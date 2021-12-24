@@ -30,7 +30,7 @@ I am a full stack developer currently working as an audiologist. Born and raised
 - 📫 How to reach me: codinglaurel@gmail.com
 - ⚡ Fun fact: I read the docs && the source code
 
-Want to see my resume? [Click here!](https://drive.google.com/file/d/1GHIE7Md1E6yhQkm6BKyP1Cj13Kj6nGVU/view?usp=sharing)
+Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0rsJ-veGJPgxC8EfAvDOjDc/view?usp=sharing)
 
 ## Technology
 
