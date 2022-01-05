@@ -9,7 +9,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 
-<!-- Thanks for lurking my code. If you like my design and want to use it, please try to add your own flare to it so it doesn't look exactly like mine :) -->
+<!-- Thanks for lurking my code. If you like my design and want to use it, please try to add your own flare to it so it doesn't look exactly like mine :) Please note, a notification is sent to this user when their code is reused -->
 #### Area: Colorado, USA | Phone: 303-736-9393 | Email: codinglaurel@gmail.com
  
  <a href="https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
