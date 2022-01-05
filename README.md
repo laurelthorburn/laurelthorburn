@@ -69,6 +69,6 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-https://www.youtube.com/feeds/videos.xml?playlist_id=<PL_SleWb0iATB8Zh-4cZmWc0oIdwRhC6dW>
+<!-- https://www.youtube.com/feeds/videos.xml?playlist_id=<PL_SleWb0iATB8Zh-4cZmWc0oIdwRhC6dW> -->
 
 
