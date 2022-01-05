@@ -68,5 +68,6 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
