@@ -34,6 +34,7 @@ I am  a full stack web developer and doctor of audiology. Want to code together?
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
 - 🆕 Now available for side project collaboration 👯
+- 🐱‍💻 What's next? Ruby on Rails 🚀
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0rsJ-veGJPgxC8EfAvDOjDc/view?usp=sharing)
 
