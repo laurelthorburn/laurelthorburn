@@ -26,7 +26,7 @@
 
 ## About Me:
 
-I am  a full stack web developer and doctor of audiology. Want to code together? Send me an email!
+I am  a full stack web developer and doctor of audiology. I love to code and am always looking for new thing to create. Want to code together? Send me an email!
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning MongoDB/Mongoose & React
