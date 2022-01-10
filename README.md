@@ -75,4 +75,6 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0
 
 <!-- https://www.youtube.com/feeds/videos.xml?playlist_id=<PL_SleWb0iATB8Zh-4cZmWc0oIdwRhC6dW> -->
 
+In the words of Aesop Rock, "Look, I've never had a dream in my life because a dream is what you wanna do, but still haven't pursued. I knew what I wanted and did it till it was done, so I've been the dream that I wanted to be since day one!" 🎶
+
 
