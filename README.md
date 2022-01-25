@@ -58,12 +58,6 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![]() ![]()
 </details>
 
-<details>
- <summary>Preferred browser:</summary>
-
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-</details>
-
 ## Stats & Just for Fun
 
 <div align="center">
