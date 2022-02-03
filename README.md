@@ -65,10 +65,9 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn&layout=calm)](https://github.com/anuraghazra/github-readme-stats)
-<!-- https://www.youtube.com/feeds/videos.xml?playlist_id=<PL_SleWb0iATB8Zh-4cZmWc0oIdwRhC6dW> -->
+</div>
 
 
 
