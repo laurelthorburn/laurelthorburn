@@ -29,7 +29,7 @@
 I am  a full stack developer and doctor of audiology. I love to code and am always looking for new things to create. Want to code together? Send me an email!
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Improved Accessibility 
 - 💬 Send me an algorithm to solve 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
