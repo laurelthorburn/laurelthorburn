@@ -36,7 +36,7 @@ I am  a full stack developer and doctor of audiology. I love to code and am alwa
 - 🆕 Now available for side project collaboration 👯
 - 💻 Self Studying: Ruby on Rails 🚀
 
-Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0rsJ-veGJPgxC8EfAvDOjDc/view?usp=sharing)
+Want to see my resume? [Click here!](https://drive.google.com/file/d/1ZyNn1gCgtfvAz5V5F4XVv8-J2UDBfXrS/view?usp=sharing)
 
 ## Technology
 
