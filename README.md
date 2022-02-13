@@ -38,7 +38,7 @@ I am  a full stack developer and doctor of audiology who is known for being ener
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1ZyNn1gCgtfvAz5V5F4XVv8-J2UDBfXrS/view?usp=sharing)
 
-## Technology
+<!-- ## Technology
 
 <details open>
  <summary>Languages:</summary>
@@ -56,7 +56,7 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1ZyNn1gCgtf
  <summary>Applications:</summary>
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![]() ![]()
-</details>
+</details> -->
 
 ## Stats & Just for Fun
 
