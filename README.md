@@ -29,7 +29,7 @@
 I am  a full stack developer and doctor of audiology who is known for being energetic, determined, and curious. I love to code and am always looking for new things to create and am dedicated to a life of continued education.  In my freetime I study French, Spanish, and American Sign Language (ASL). Want to code together? Send me an email!
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver
-- 🌱 I’m currently learning/exploring improved Accessibility & Tailwind CSS
+- 🌱 I’m currently learning/exploring improved Accessibility & GraphQL & React Transition (they're just so fun!)
 - 💬 Send me an algorithm to solve 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
