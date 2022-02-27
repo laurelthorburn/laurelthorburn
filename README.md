@@ -35,8 +35,6 @@ I am  a full stack developer and doctor of audiology who is known for being ener
 - 📖 Fun fact: I read the docs && the source code
 - 🆕 Now available for side project collaboration 👯
 
-Want to see my resume? [Click here!](https://drive.google.com/file/d/1ZyNn1gCgtfvAz5V5F4XVv8-J2UDBfXrS/view?usp=sharing)
-
 <!-- ## Technology
 
 <details open>
