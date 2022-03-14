@@ -7,8 +7,8 @@
  
  /lôrəl θɔːrbɚn/
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
-
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+ -->
 <!-- Thanks for lurking my code. If you like my design and want to use it, please try to add your own flare to it so it doesn't look exactly like mine :) -->
 #### Area: Colorado, USA | Google Phone: 303-736-9393 | Email: codinglaurel@gmail.com
  
