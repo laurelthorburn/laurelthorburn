@@ -7,11 +7,9 @@
  
  /lôrəl θɔːrbɚn/
  
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
- -->
-<!-- Thanks for lurking my code. If you like my design and want to use it, please try to add your own flare to it so it doesn't look exactly like mine :) -->
-#### Area: Colorado, USA | Email: codinglaurel@gmail.com
- 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
+
  <a href="https://laurelthorburn.github.io/Laurel-Thorburn-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-708090?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/laurel-thorburn-651592219/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
  <a href="mailto:codinglaurel@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-E6E6FA?logo=Gmail"></a>
@@ -29,7 +27,7 @@ I am  a full stack developer and doctor of audiology who is known for being ener
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver (MERN stack)
 - 🌱 I’m currently learning Typescript and Ruby on Rails 🚀
-- 🖥️ I am always seeking to improve web accessbility 💖
+- 🖥️ I am always seeking to improve my web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
 - 🆕 Now available for side project collaboration 👯
