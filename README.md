@@ -28,8 +28,8 @@
 I am  a full stack developer and doctor of audiology who is known for being energetic, determined, and curious. I love to code and am always looking for new things to create.  In my freetime I study Spanish, American Sign Language (ASL), and play the violin 🎻. Want to code together? Send me an email!
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver (MERN stack)
-- 🌱 I’m currently learning/exploring improved Accessibility & Typescript
-- 💬 Send me an algorithm to solve 💖
+- 🌱 I’m currently learning Typescript and Ruby on Rails 🚀
+- 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
 - 🆕 Now available for side project collaboration 👯
