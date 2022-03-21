@@ -7,7 +7,7 @@
  
  /lôrəl θɔːrbɚn/
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloFriends)
 
 
  <a href="https://laurelthorburn.github.io/Laurel-Thorburn-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-708090?logo=GitHub"></a>
