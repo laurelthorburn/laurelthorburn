@@ -23,7 +23,7 @@
 
 ## About Me:
 
-I am  a full stack developer and doctor of audiology who is known for being energetic, determined, and curious. I love to code and am always looking for new things to create.  In my freetime I study Spanish, American Sign Language (ASL), and play the violin 🎻. Want to code together? Send me an email!
+I am  a full stack developer and doctor of audiology who is known for being energetic, determined, and curious. I love to code and am always looking for new things to create.  In my freetime I study Spanish, American Sign Language (ASL), and play the violin 🎻.
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver (MERN stack)
 - 🌱 I’m currently learning Typescript and Ruby on Rails 🚀
