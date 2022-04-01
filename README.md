@@ -30,7 +30,6 @@ I am  a full stack developer and doctor of audiology who is known for being ener
 - 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
-- 🆕 Now available for side project collaboration 👯
 
 <!-- ## Technology
 
