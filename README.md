@@ -25,7 +25,7 @@
 
 I am  a full stack developer and doctor of audiology who is known for being energetic, determined, and curious. I love to code and am always looking for new things to create.
 
-- 👩🏻‍🎓 Full Stack Developer certificate from University of Denver
+- 👩🏻‍🎓 Full Stack Developer certificate from University of Denver (DU)
 - 🌱 I’m currently learning Typescript and Ruby on Rails 🚀
 - 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
