@@ -7,8 +7,8 @@
  
  /lôrəl θɔːrbɚn/
  
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloFriends)
- -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=laurelthorburn.visitor-badge&left_color=red&right_color=green&left_text=HelloFriends)
+
 
  <a href="https://laurelthorburn.github.io/Laurel-Thorburn-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-708090?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/laurel-thorburn-651592219/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
@@ -26,7 +26,7 @@
 I am  a full stack developer and doctor of audiology. I love to code and am always looking for new things to create.
 
 - 👩🏻‍🎓 Full Stack Developer certificate from University of Denver (DU)
-- 🌱 I’m currently learning Typescript and Ruby on Rails 🚀
+- 🌱 I’m currently learning Ruby on Rails 🚀
 - 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
 - 📖 Fun fact: I read the docs && the source code
