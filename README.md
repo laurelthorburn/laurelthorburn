@@ -36,9 +36,8 @@ I am a software engineer and doctor of audiology. I love to code and am always l
  
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn&layout=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<!--  b00pb33p! -->
