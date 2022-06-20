@@ -24,11 +24,11 @@
 
 I am a software engineer and doctor of audiology. I love to code and am always looking for new things to create.
 
-- 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
+<!-- - 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
 - 🌱 I’m currently learning TypeScript
 - 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com
-- 📖 Fun fact: I read the docs && the source code
+- 📖 Fun fact: I read the docs && the source code -->
 
 ## Stats & Just for Fun
 
