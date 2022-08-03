@@ -25,7 +25,7 @@
 I am a software developer and doctor of audiology. I love to code and am always looking for new things to create.
 
 - 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning rails 🚂
 - 📖 Fun fact: I read the docs && the source code
 <!-- - 🖥️ I am always seeking to improve web accessbility 💖
 - 📫 How to reach me: codinglaurel@gmail.com -->
