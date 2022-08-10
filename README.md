@@ -25,19 +25,12 @@
 I am a software developer and doctor of audiology. I love to code and am always looking for new things to create.
 
 - 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
-- 🌱 I’m currently learning rails 🚂
+- 🌱 I’m currently learning everything and anything
 - 📖 Fun fact: I read the docs && the source code
-<!-- - 🖥️ I am always seeking to improve web accessbility 💖
-- 📫 How to reach me: codinglaurel@gmail.com -->
+
 
 ## Stats & Just for Fun
 
 <div align="center">
  
 [![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laurelthorburn&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelthorburn&layout=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
-
