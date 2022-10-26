@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
- <pre>console.log("Welcome to my profile!");</pre>
+ <pre>console.log("Welcome to my github!");</pre>
 </div>
 
 ## About Me:
