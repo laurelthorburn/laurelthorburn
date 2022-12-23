@@ -13,10 +13,6 @@
  <pre>console.log("Welcome to my github!");</pre>
 </div>
 
-## NOTICE:
-
-Quite a few of my projects were hosted on Heroku.  Heroku has recently changed their free plan, as a result some of my deployed sites (e.g., DONUT FORGET TO REVIEW) may not work at this time while I look for an alternative solution.
-
 ## About Me:
 
 I am a software developer and doctor of audiology. I love to code and am always looking for new things to create.
