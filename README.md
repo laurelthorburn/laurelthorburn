@@ -21,9 +21,9 @@ I am a software developer and doctor of audiology. I love to code and am always 
 - 🌱 I’m currently studying algorithms 
 - 📖 Fun fact: I read the docs && the source code
 
-
+<!-- 
 ## Stats & Just for Fun
 
 <div align="center">
  
-[![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurelthorburn&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) -->
