@@ -17,9 +17,9 @@
 
 I am a software developer and doctor of audiology. I love to code and am always looking for new things to create.
 
-- 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
+<!-- - 👩🏻‍🎓 Full Stack Developer wtih a love for Front End
 - 🌱 I’m currently studying algorithms 
-- 📖 Fun fact: I read the docs && the source code
+- 📖 Fun fact: I read the docs && the source code -->
 
 <!-- 
 ## Stats & Just for Fun
