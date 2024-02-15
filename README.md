@@ -2,9 +2,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B31C&center=true&vCenter=true&lines=🍩+🍩+🍩+🍩;Let's+Code+👩🏻‍💻)](https://git.io/typing-svg)
 
-# 🌻 **Laurel Thorburn** 🦸‍♀
+# 🌻 **Laurel King** 🦸‍♀
  
- /lôrəl θɔːrbɚn/
+ /lôrəl/
 
 
 </div>
