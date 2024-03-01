@@ -2,7 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B31C&center=true&vCenter=true&lines=🍩+🍩+🍩+🍩;Feed+Me+Donuts+Or+Go+Away)](https://git.io/typing-svg)
 
-# 🌻 **Laurel King** 🦸‍♀
+# 👩🏻‍💻 **Laurel King** 🦸‍♀
  
  /lôrəl/
 
