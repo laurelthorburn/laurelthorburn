@@ -9,7 +9,4 @@
  <pre>console.log("Welcome to my github!");</pre>
 </div>
 
-...yes, I probably broke it.
-
-
 
