@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B31C&center=true&vCenter=true&lines=🍩+🍩+🍩+🍩;PLEASE+SEND+ME+DONUTS)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B31C&center=true&vCenter=true&lines=🍩+🍩+🍩+🍩;PLEASE+SEND+DONUTS)]()
 
 # 👩🏻‍💻 **Laurel King** 🦸‍♀
  
